@@ -16,6 +16,7 @@ import android.widget.ImageView;
 import com.example.firsthmand2.R;
 
 public class profileFragment extends Fragment {
+    private Boolean check;
     private ImageView imageView;
 
     private ActivityResultLauncher mGetContent;
